@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff41,004d00,001a00&height=250&section=header&text=Prakhar%20Sahu&fontSize=90&fontAlignY=25&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=45&descSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=20b2aa,008b8b,006666&height=250&section=header&text=Prakhar%20Sahu&fontSize=90&fontAlignY=25&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=45&descSize=24" />
 </div>
 
 <div align="center">
@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prakharsahu10&style=for-the-badge&color=00ff41&labelColor=1c1917" />
-  <img src="https://img.shields.io/github/followers/Prakharsahu10?style=for-the-badge&color=00ff41&labelColor=1c1917" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-00ff41?style=for-the-badge&labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=Prakharsahu10&style=for-the-badge&color=20b2aa&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/Prakharsahu10?style=for-the-badge&color=20b2aa&labelColor=1c1917" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-20b2aa?style=for-the-badge&labelColor=1c1917" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ const prakhar = {
 <td align="center" width="25%">
 <h4>⚡ Backend</h4>
 <img src="https://skillicons.dev/icons?i=nodejs,express,go,python" /><br>
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=00ff41" />
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=20b2aa" />
 </td>
 <td align="center" width="25%">
 <h4>🗄️ Database</h4>
@@ -93,12 +93,16 @@ const prakhar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prakharsahu10&show_icons=true&theme=react&bg_color=0D1117&title_color=00ff41&text_color=FFFFFF&icon_color=00ff41&border_color=30363d&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsahu10&layout=compact&theme=react&bg_color=0D1117&title_color=00ff41&text_color=FFFFFF&icon_color=00ff41&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prakharsahu10&show_icons=true&theme=dark&bg_color=0D1117&title_color=20b2aa&text_color=FFFFFF&icon_color=20b2aa&border_color=30363d&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsahu10&layout=compact&theme=dark&bg_color=0D1117&title_color=20b2aa&text_color=FFFFFF&icon_color=20b2aa&border_color=30363d" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakharsahu10&theme=react&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakharsahu10&theme=dark&background=0D1117&ring=20b2aa&fire=20b2aa&currStreakLabel=20b2aa&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="50%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharsahu10&theme=react-dark&bg_color=0D1117&color=20b2aa&line=20b2aa&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -122,7 +126,7 @@ const prakhar = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41,004d00&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa,008b8b&height=100&section=footer" />
 </div>
 
 <div align="center">
