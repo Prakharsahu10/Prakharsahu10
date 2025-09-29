@@ -1,135 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=20b2aa,008b8b,006666&height=250&section=header&text=Prakhar%20Sahu&fontSize=90&fontAlignY=25&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Software%20Developer&descAlignY=45&descSize=24" />
-</div>
+# 💫 About Me:
+🔭 Building scalable backend systems<br>🌱 Exploring GoLang & Cloud Architecture<br>👯 Open for MERN Stack collaborations<br>💬 Ask me about System Design & APIs<br>⚡ Fun fact: Debug by day, dream in code by night
 
-<div align="center">
-  
-**🚀 Building Scalable Systems | ⚡ MERN Stack Expert | 🎯 Backend Specialist | 🌱 Always Learning & Growing!**
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ig.prakharsahu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakhar-sahu/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Prakhar_018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakharsahu487@gmail.com) 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prakharsahu10&style=for-the-badge&color=20b2aa&labelColor=1c1917" />
-  <img src="https://img.shields.io/github/followers/Prakharsahu10?style=for-the-badge&color=20b2aa&labelColor=1c1917" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-20b2aa?style=for-the-badge&labelColor=1c1917" />
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prakharsahu10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prakharsahu10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsahu10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Prakharsahu10&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-const prakhar = {
-    pronouns: "He/Him",
-    location: "Bengaluru, India 🇮🇳",
-    currentWork: "Backend Projects & System Design",
-    learning: ["GoLang", "DevOps", "Cloud Architecture"],
-    interests: ["Backend Development", "System Design"],
-    availability: "Open to work and collaboration",
-    
-    askMeAbout: [
-        "JavaScript", "Node.js", "React",
-        "System Design", "API Development"
-    ]
-};
-```
-
-</td>
-<td width="50%">
-
-<img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-**🎯 Quick Facts:**
-- 🔭 Building scalable backend systems
-- 🌱 Exploring GoLang & Cloud Architecture  
-- 👯 Open for MERN Stack collaborations
-- 💬 Ask me about System Design & APIs
-- ⚡ Fun fact: Debug by day, dream in code by night
-
-</td>
-</tr>
-</table>
-
-
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h4>🔥 Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</td>
-<td align="center" width="25%">
-<h4>⚡ Backend</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,go,python" /><br>
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=20b2aa" />
-</td>
-<td align="center" width="25%">
-<h4>🗄️ Database</h4>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
-</td>
-<td align="center" width="25%">
-<h4>🚀 DevOps & Tools</h4>
-<img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" /><br>
-<img src="https://skillicons.dev/icons?i=vercel,github" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prakharsahu10&show_icons=true&theme=dark&bg_color=0D1117&title_color=20b2aa&text_color=FFFFFF&icon_color=20b2aa&border_color=30363d&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharsahu10&layout=compact&theme=dark&bg_color=0D1117&title_color=20b2aa&text_color=FFFFFF&icon_color=20b2aa&border_color=30363d" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakharsahu10&theme=dark&background=0D1117&ring=20b2aa&fire=20b2aa&currStreakLabel=20b2aa&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakharsahu10&theme=react-dark&bg_color=0D1117&color=20b2aa&line=20b2aa&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/prakhar-sahu/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/Prakhar_018">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/prakhar_sahu___/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa,008b8b&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <p><strong>Made with ❤️ by <a href="https://github.com/Prakharsahu10">Prakhar Sahu</a></strong></p>
-  <p><em>"Building the future, one commit at a time"</em></p>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
